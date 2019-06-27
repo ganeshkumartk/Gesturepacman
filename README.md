@@ -1,2 +1,2 @@
 # Gesturepacman
-Play pacman with hand gestures👋🏻👋🏻
+Play pacman with hand gestures 👋👋👋
